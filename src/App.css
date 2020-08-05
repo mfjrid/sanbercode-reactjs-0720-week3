@@ -19,6 +19,11 @@ table th {
 
 table td {
   text-align: left;
-  background-color: indianred;
+  background-color: salmon;
   padding: 7px;
+}
+
+input {
+  width: 80%;
+  text-align: center;
 }
